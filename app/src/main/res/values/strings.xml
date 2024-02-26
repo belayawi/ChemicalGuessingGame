@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Chemical Guessing Game</string>
+    <string name="chemical_guessing_game">Chemical Guessing Game</string>
+    <string name="success_message">""</string>
+    <string name="please_guess_a_chemical">Please Guess A chemical</string>
+    <string name="guess">Guess</string>
+    <string name="please_add_a_chemical">Please Add A Chemical</string>
+    <string name="add_chemical">Add Chemical</string>
+    <string name="chemical_image">chemical image</string>
+</resources>
